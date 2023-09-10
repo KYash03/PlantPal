@@ -4,7 +4,7 @@
 PlantPal is an iOS app designed to assist users in identifying plant diseases using machine learning. This app uses Swift and SwiftUI for the user interface, leverages PhotosUI for image handling UIKit for specific components, and incorporates Core ML for the machine learning model.
 
 ## Key Features
-- Plant Disease Identification: PlantPal utilizes machine learning (image classification) to identify plant diseases from user-uploaded images accurately.
+- Plant Disease Identification: Plant Disease Identification: PlantPal utilizes machine learning (image classification) to accurately identify plant diseases from user-uploaded images.
 - Built with SwiftUI: The user interface is built with SwiftUI, providing an intuitive and visually appealing user experience.
 - Core ML Integration: PlantPal uses a Core ML model for image classification. The model achieved a validation accuracy of 73%.
 
